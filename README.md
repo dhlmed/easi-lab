@@ -5,12 +5,12 @@
 - 한국어: https://dhlmed.github.io/easi-lab/
 - English: https://dhlmed.github.io/easi-lab/en/index.html
 - Repository: https://github.com/dhlmed/easi-lab
-- 콘텐츠 기준: 2026-10-12, EASI 홈페이지 버전 26
+- 콘텐츠 기준: 2026-10-12, EASI 홈페이지 버전 27
 
 ## 최근 반영 내용
 
 - Experimental Dermatology 편집장(Editor-in-Chief, EIC) 약력에 Wiley 저널 홈페이지 링크를 추가했습니다.
-- MBA를 동국대학교 경영대학 의료기기혁신경영 MBA로 구체화하고, 학력·소개·의료기기 연구 분야에 반영했습니다. 영어 전공 표현은 공식 과정명이 아닌 설명식 번역입니다.
+- MBA를 동국대학교 경영전문대학원 의료기기혁신경영 MBA로 구체화하고, 학력·소개·의료기기 연구 분야에 반영했습니다. 영어 전공 표현은 공식 과정명이 아닌 설명식 번역입니다.
 
 - 연구책임자를 상단 메뉴의 첫 항목으로, 공동연구를 마지막 항목으로 배치했습니다. 공동연구를 강조하고 연구 참여는 일반 메뉴로 표시합니다.
 - EASI 바로 아래의 풀네임이 고정 배너에 남으며, 첫 글자 E·A·S·I는 밝은 라임색입니다. 배너 아래 풀네임은 구릿빛으로 표시합니다.
