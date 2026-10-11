@@ -37,8 +37,8 @@
     "pi": {
       "file": "people.html",
       "title": [
-        "이동훈 교수 · 주요 경력과 학술 리더십",
-        "Dong Hun Lee, MD, PhD · Academic Leadership"
+        "이동훈, MD, PhD, MBA · 주요 경력과 학술 리더십",
+        "Dong Hun Lee, MD, PhD, MBA · Academic Leadership"
       ],
       "description": [
         "서울대학교 의과대학·서울대학교병원 피부과 이동훈 교수의 연구, 경력, 주요 학회 활동과 학술단체 회원 경력을 소개합니다.",
@@ -522,7 +522,7 @@
         "국제이사",
         "Director of International Affairs"
       ],
-      "since": null,
+      "since": "2023",
       "url": "https://atopy.re.kr/"
     },
     {
@@ -570,7 +570,7 @@
         "대외협력이사",
         "Director of External Affairs"
       ],
-      "since": null,
+      "since": "2025",
       "url": "https://kscontact.or.kr/sub/member_now.php"
     },
     {
@@ -582,7 +582,7 @@
         "대외협력이사",
         "Director of External Affairs"
       ],
-      "since": null,
+      "since": "2024",
       "url": "http://kscr.or.kr/"
     }
   ],
@@ -4026,6 +4026,16 @@
       "164": [
         "집속초음파와 피부 내 incobotulinumtoxin-A 병합치료 후 모공 변화를 3D 영상으로 평가한 후향적 임상연구입니다.",
         "A retrospective clinical study used 3D imaging to assess facial pores after combined microfocused ultrasound and intradermal incobotulinumtoxin-A."
+      ]
+    },
+    "background": {
+      "title": [
+        "의학·연구·경영의 관점",
+        "Medicine, research & management"
+      ],
+      "description": [
+        "연구책임자 이동훈은 MD, PhD, MBA 학위를 보유한 피부과 의사과학자입니다. 경영학석사(MBA)의 배경을 더해 의료기기·EBD 연구의 임상적 필요와 기술 활용 가능성을 함께 고려합니다.",
+        "Principal investigator Dong Hun Lee holds MD, PhD and MBA degrees. His background in medicine, research and business administration informs a perspective on medical-device and EBD research that considers both clinical needs and the potential use of new technologies."
       ]
     }
   },
