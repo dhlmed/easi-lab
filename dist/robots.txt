@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dhlmed.github.io/easi-lab/sitemap.xml
